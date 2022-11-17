@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @A1eXeYM82
 - 👀 I’m interested in quality assurance and program development.
-- 🌱 I’m currently learning Postman and GIT 
-- 💞️ I’m looking to collaborate on testing API in Postman and transfer the result through the GIT
+- 🌱 I’m currently learning Python, Postman and GIT 
+- 💞️ I’m looking to collaborate on testing API in Postman and transfer the result through the GIT. Codin
 - 📫 How to reach me malyginalex82@gmail.com 
 
 <!---
